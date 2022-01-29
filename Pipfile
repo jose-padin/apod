@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "==0.19.2"
+requests = "==2.27.1"
+tweepy = "==4.5.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
